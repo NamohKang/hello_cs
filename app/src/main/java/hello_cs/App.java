@@ -9,7 +9,8 @@ public class App {
     }
 
     public static void main(String[] args) {
-		HelloCS helloCS = new HelloCS();
-		helloCS.printMessage();
+		  HelloCS helloCS = new HelloCS();
+		  helloCS.printMessage();
+      helloCS.printClasses();
     }
 }
